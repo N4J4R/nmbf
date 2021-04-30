@@ -14,3 +14,8 @@
  $ pip2 install mechanize
  
  $ git clone https://github.com/N4J4R/nmbf
+
+# Run Script
+ $ cd nmbf
+ 
+ $ python2 nmbf
