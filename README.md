@@ -18,4 +18,4 @@
 # Run Script
  $ cd nmbf
  
- $ python2 nmbf
+ $ python2 nbf
